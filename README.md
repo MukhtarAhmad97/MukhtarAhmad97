@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mukhtar Ahmad</h1>
-<h3 align="center">Experienced QA Automation Engineer with a demonstrated history of working in diverse industries including E-commerce, Health Care, Fintech, CRM, and Real Estate. Specialized in test automation using Cypress,Playwright (JavaScript / Python) , Selenium (Python), and Appium( Java). Bringing over 2 years of solid experience in ensuring the quality of both mobile and web applications.</h3>
+<h3 align="center">Experienced QA Automation Engineer with a demonstrated history of working in diverse industries including E-commerce, Health Care, Fintech, CRM, and Real Estate. Specialized in test automation using Cypress, Playwright (JavaScript / Python), Selenium (Python), and Appium( Java). Bringing over 4 years of solid experience in ensuring the quality of both mobile and web applications.</h3>
 
 - 🌱 I’m currently learning **Cucumber(BDD) , Playwright , Rest Assure(API)**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mukhtar-ahmad97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja haroon jamal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukhtar-ahmad97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukhtar ahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
